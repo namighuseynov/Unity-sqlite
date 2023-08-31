@@ -26,7 +26,3 @@ License:
 This repository is distributed under the [specify the chosen license, e.g., MIT License], which grants you the freedom to use, modify, and distribute the provided code under the specified conditions.
 
 If you have any questions, suggestions, or issues, please create an issue or reach out to us. Thank you for your interest in "Unity-sqlite"!
-
-[You can add contact information or links to additional resources here if needed.]
-
-I hope this description suits your needs!
