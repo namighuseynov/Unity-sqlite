@@ -1,1 +1,1 @@
-C:\NamiqDev\Assets\Unity-sqlite
+C:\NamiqDev\Assets\Unity-sqlite\UnityPackage
